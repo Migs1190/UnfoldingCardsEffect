@@ -3,7 +3,7 @@ body {
 	height: 100vh;
 	display: grid;
 	place-content: center;
-	--b-card-width: 250px;
+	--b-card-width: 200px;
 	--b-card-height: calc(var(--b-card-width) * 1.428571428571429);
 	--s-card-height: calc(var(--b-card-width) / 1.75);
 	--s-card-width: calc(var(--b-card-width) / 2.333333333333333);
